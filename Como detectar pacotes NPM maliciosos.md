@@ -10,7 +10,7 @@ Detectar pacotes NPM maliciosos é um desafio importante para garantir a seguran
    - **Histórico de Versões**: Observe a frequência de atualização e mudanças na versão para identificar padrões anormais.
 
 ### 2. **Análise de Dependências**
-   - Utilize ferramentas como [NPM Audit](https://docs.npmjs.com/cli/v7/commands/npm-audit) para detectar vulnerabilidades conhecidas.
+   - Utilize ferramentas como [NPM Audit](npm-audit.md) para detectar vulnerabilidades conhecidas.
    - Verifique manualmente o arquivo `package.json` para garantir que não haja dependências estranhas.
 
 ### 3. **Verifique o Código Fonte**
