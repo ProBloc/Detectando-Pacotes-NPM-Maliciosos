@@ -1,3 +1,5 @@
+
+![NPM Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/120px-Npm-logo.svg.png)
 # Como detectar e evitar pacotes NPM maliciosos
 
 Detectar pacotes NPM maliciosos é um desafio importante para garantir a segurança de seus projetos. Aqui estão algumas práticas para identificar pacotes potencialmente maliciosos:
